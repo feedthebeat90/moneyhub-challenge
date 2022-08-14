@@ -1,0 +1,30 @@
+# calculations
+pandas
+numpy
+
+# databases
+sqlalchemy
+psycopg2
+
+# ML libs
+scikit-learn
+lightgbm
+scikit-optimize
+
+# plotting
+matplotlib==3.5.1
+seaborn==0.11.2
+jupyterlab>=3
+ipywidgets>=7.6
+
+# widgets in plotting
+jupyter-dash
+
+# notebook formatting
+nbqa
+black
+isort
+nbstripout
+
+# other
+missingno
